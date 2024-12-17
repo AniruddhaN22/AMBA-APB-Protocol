@@ -6,6 +6,7 @@ The RTL for the  AMBA 3 APB Protocol Specification v1.0 has been written with th
 
 
 ![image](https://github.com/user-attachments/assets/902f746b-8e7f-45d0-b885-7a04d701c9b9)
+
 **PSTRB and PPROT have not been used as this is Specification v1.0**
 
 ## Results:
