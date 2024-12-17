@@ -15,6 +15,8 @@ The RTL for the  AMBA 3 APB Protocol Specification v1.0 has been written with th
 
 ![image](https://github.com/user-attachments/assets/d12ae88c-d1a6-4a76-9092-73db2bae30e1)
 
+## Acknowledgements:
+[AMBA APB Protocol Specification](https://developer.arm.com/documentation/ihi0024/c)
 
  
 
